@@ -1,0 +1,3 @@
+FOR I = 0 TO 5 THEN
+consoleprint("5")
+END
